@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/robots-roiodex/static/css/main.8e984434.chunk.css",
+    "main.js": "/robots-roiodex/static/js/main.16fcac0d.chunk.js",
+    "main.js.map": "/robots-roiodex/static/js/main.16fcac0d.chunk.js.map",
+    "runtime-main.js": "/robots-roiodex/static/js/runtime-main.cfe60ee2.js",
+    "runtime-main.js.map": "/robots-roiodex/static/js/runtime-main.cfe60ee2.js.map",
+    "static/js/2.4ae214a8.chunk.js": "/robots-roiodex/static/js/2.4ae214a8.chunk.js",
+    "static/js/2.4ae214a8.chunk.js.map": "/robots-roiodex/static/js/2.4ae214a8.chunk.js.map",
+    "static/js/3.9fb4beb9.chunk.js": "/robots-roiodex/static/js/3.9fb4beb9.chunk.js",
+    "static/js/3.9fb4beb9.chunk.js.map": "/robots-roiodex/static/js/3.9fb4beb9.chunk.js.map",
+    "index.html": "/robots-roiodex/index.html",
+    "static/css/main.8e984434.chunk.css.map": "/robots-roiodex/static/css/main.8e984434.chunk.css.map",
+    "static/js/2.4ae214a8.chunk.js.LICENSE.txt": "/robots-roiodex/static/js/2.4ae214a8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cfe60ee2.js",
+    "static/js/2.4ae214a8.chunk.js",
+    "static/css/main.8e984434.chunk.css",
+    "static/js/main.16fcac0d.chunk.js"
+  ]
+}
