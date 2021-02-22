@@ -27,6 +27,7 @@ class App extends Component {
   }
 
   // 這裡要用 arrow function 讓this可以跟 class App產生連結，用普通function會報錯
+  // 被SearchBox觸發的change事件
   handleChange = e => {
     this.setState({ searchField: e.target.value });
   }
